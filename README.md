@@ -1,4 +1,8 @@
-# OpenCore Configuration for Dell XPS 15 9560
+# OpenCore 0.9.5 Configuration for Dell XPS 15 9560
+
+### Ventura/BigSur work for DELL XPS 9560 1080 FullHD
+other options see here: https://www.tonymacx86.com/threads/guide-dell-xps-9560-ventura-opencore.324866/
+Thanks a lot to InsaneCultist
 
 ## UEFI BIOS Variables Setup
 
